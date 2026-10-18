@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-17T15:38:45.560448Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:39:16.117764Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:39:46.644021Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:40:17.093898Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:40:47.635137Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:41:18.164330Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:41:48.700831Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:42:19.271526Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:43:20.388384Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-10-17T15:43:50.811287Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/silver.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}

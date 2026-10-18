@@ -1,0 +1,7 @@
+airflow
+dotenv
+faker
+psycopg2
+PySpark
+Java
+PostgreSQL 
